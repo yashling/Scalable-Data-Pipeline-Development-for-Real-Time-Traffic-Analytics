@@ -116,13 +116,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🙋‍♀️ Author
-
-**Samhitha Nuka**  
-*Data Engineer | Cloud & Analytics Enthusiast*
-
----
-
 ## 🔮 Future Enhancements
 
 - Integrate Apache Kafka or Azure Event Hub for streaming data
